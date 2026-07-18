@@ -8,10 +8,10 @@ A modern and comprehensive collection of **Nmap commands**, practical examples, 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Nmap+Cheatsheet;Network+Scanning+Made+Easy;Enumeration+%7C+Reconnaissance;Ethical+Hacking+Toolkit" />
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/nmap-cheatsheet?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/nmap-cheatsheet?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/nmap-cheatsheet?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/nmap-cheatsheet?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/DidulaGamage-lk/nmap-cheatsheet?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/DidulaGamage-lk/nmap-cheatsheet?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/DidulaGamage-lk/nmap-cheatsheet?style=for-the-badge)
+![License](https://img.shields.io/github/license/DidulaGamage-lk/nmap-cheatsheet?style=for-the-badge)
 
 </div>
 
