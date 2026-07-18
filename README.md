@@ -291,29 +291,10 @@ nmap -oA fullscan target
 
 ---
 
-# 🤝 Contributing
-
-Pull requests are welcome.
-
-Feel free to:
-
-- Add new commands
-- Improve explanations
-- Add useful NSE scripts
-- Submit Pull Requests
-
----
-
-# 📜 License
-
-MIT License
-
----
-
 <div align="center">
 
 ⭐ If you found this project useful, consider giving it a Star!
 
-Made with ❤️ by **Didula Gamage**
+ **Didula Gamage**
 
 </div>
